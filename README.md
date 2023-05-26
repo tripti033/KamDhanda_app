@@ -21,7 +21,7 @@ To run the app locally, follow these steps:
 
 ## API Integration
 
-The Job Search App integrates with the Jsearch API to fetch job data. The app makes API requests to retrieve job listings based on user search queries. It handles pagination to load additional results and displays the retrieved job information in a user-friendly format.
+The KamDhanda App integrates with the Jsearch API to fetch job data. The app makes API requests to retrieve job listings based on user search queries. It handles pagination to load additional results and displays the retrieved job information in a user-friendly format.
 
 ## UI/UX Design
 

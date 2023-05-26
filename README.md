@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## Acknowledgments
-- UI design inspired by  Michel Achkar on Dribbble: [Job finder Mobile UI _ Job list](https://dribbble.com/shots/11867493-Job-finder-Mobile-UI-Job-list/)
+- UI design inspired by  Michel Achkar on Dribbble: [Job finder Mobile UI _ Job list](https://dribbble.com/shots/11867493-Job-finder-Mobile-UI-Job-list?utm_source=Clipboard_Shot&utm_campaign=michelachkar&utm_content=Job%20finder%20Mobile%20UI%20_%20Job%20list&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=michelachkar&utm_content=Job%20finder%20Mobile%20UI%20_%20Job%20list&utm_medium=Social_Share)
 - [Jsearch API](https://jsearch.io/) for providing job search functionality.
 - [React Native](https://reactnative.dev/) for the cross-platform mobile development framework.
 - [Expo](https://expo.io/) for the development toolkit and runtime environment.

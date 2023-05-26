@@ -54,6 +54,7 @@ Throughout the development process, best practices for React Native development 
 ![Job Details](https://github.com/tripti033/Job_search_app/assets/107789391/257b1325-681b-405f-a8f5-1d34f8c609b1)
 ![Search](https://github.com/tripti033/Job_search_app/assets/107789391/78d9e08f-b5ef-4614-a417-3f6c5cebd100)
 ![Search Page](https://github.com/tripti033/Job_search_app/assets/107789391/4e6924b3-907c-4ad1-9b93-f5fcb995c0e0)
+<img src="[/path/to/image.png](https://github.com/tripti033/Job_search_app/assets/107789391/4e6924b3-907c-4ad1-9b93-f5fcb995c0e0)" alt="search page is gthe" width="100" height="100">
 
 
 ## License

@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
     width: "70%",
     height: "70%",
   },
+  
   textContainer: {
     flex: 1,
     marginHorizontal: SIZES.medium,

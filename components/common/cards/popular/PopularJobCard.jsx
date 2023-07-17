@@ -39,4 +39,5 @@ const PopularJobCard = ({ item, selectedJob, handleCardPress }) => {
   );
 };
 
+
 export default PopularJobCard;

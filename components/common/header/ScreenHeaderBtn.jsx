@@ -13,6 +13,6 @@ const ScreenHeaderBtn = ({iconUrl,dimension,handlePress}) => {
       />
       </TouchableOpacity>
   )
-}
+}    
 
 export default ScreenHeaderBtn

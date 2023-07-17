@@ -125,5 +125,4 @@ const JobDetails = () => {
     </SafeAreaView>
   );
 };
-
 export default JobDetails;

@@ -22,5 +22,5 @@ const styles = StyleSheet.create({
     color: name === activeTab ? "#C3BFCC" : "#AAA9B8",
   }),
 });
-
+ 
 export default styles;

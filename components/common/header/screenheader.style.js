@@ -17,5 +17,4 @@ const styles = StyleSheet.create({
     borderRadius: SIZES.small / 1.25,
   }),
 });
-
 export default styles;

@@ -26,6 +26,6 @@ const styles = StyleSheet.create({
     marginTop: SIZES.medium,
     gap: SIZES.small,
   },
-});
-
+}); 
+  
 export default styles;

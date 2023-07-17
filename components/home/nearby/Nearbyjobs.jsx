@@ -47,5 +47,5 @@ const Nearbyjobs = () => {
     </View>
   );
 };
-
+    
 export default Nearbyjobs;

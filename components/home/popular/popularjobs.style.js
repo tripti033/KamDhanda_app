@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
   cardsContainer: {
     marginTop: SIZES.medium,
   },
-});
+}); 
 
 export default styles;

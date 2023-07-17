@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     height: "80%",
   },
   jobTitleBox: {
-    marginTop: SIZES.small,
+    marginTop: SIZES.small, 
   },
   jobTitle: {
     fontSize: SIZES.large,

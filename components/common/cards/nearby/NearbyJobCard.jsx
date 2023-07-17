@@ -28,5 +28,4 @@ const NearbyJobCard = ({ job, handleNavigate }) => {
     </TouchableOpacity>
   );
 };
-
 export default NearbyJobCard;
